@@ -1,0 +1,32 @@
+SIGLA
+
+A = Schedae Vaticano-Berolinenses saecsii vel iii
+F = Schedae Vaticanae saec. iii init. vel iv
+G = Schedae Sangallenses rescriptae saec. iv
+M = Codex Mediceus saec. v
+
+P = Codex Palatinus , saec. iv—v
+R = Codex Romanus saec. vi ?
+
+V = Schedae Veronenses rescriptae saec. iv ?
+
+γ = Codex Gudianus saec. ix
+
+a = Codex Bernensis 172 et Parisinus saec. ix
+
+7929
+
+b = Codex Bernensis 165 saec. ix
+
+c = Codex Bernensis 184 saec. ix -
+
+m = Codex Minoraugiensis saec. xii ?
+
+π = Codex Pragensis saec. ix
+
+Serv. = Servii commentarii
+
+D. Serv. = Servius Danielis (vel Deuteroservius quern
+vocat Georgii)
+schol. Bern. = scholia Bernensia
+
